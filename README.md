@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycyberwanderer)](https://github.com/dannycyberwanderer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannycyberwalker)](https://github.com/dannycyberwalker/github-readme-stats)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dannyhf/">
