@@ -1,5 +1,3 @@
-[![danny's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dannycyberwalker)](https://github.com/dannythehumbleguy/leetcode-stats)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannythehumbleguy)](https://github.com/dannythehumbleguy/github-readme-stats)
 
 <div id="badges">
